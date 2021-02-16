@@ -6,6 +6,8 @@ I. Data binding in angular
   3. Interpolation
   4. Property binding
 
+II. Directive are Instruction in the DOM!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
 ## Development server
