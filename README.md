@@ -6,7 +6,9 @@ I. Data binding in angular
   3. Interpolation
   4. Property binding
 
-II. Directive are Instruction in the DOM!
+II. Directive
+  - Directive are Instruction in the DOM!
+  - Unlike structural directives, attribute directives don't add or remove elements. They only change the element they were placed on.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
